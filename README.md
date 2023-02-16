@@ -1,4 +1,4 @@
-# compartmentalRadiomics - Python script
+# compartmentalRadiomics - Python script (main.py)
 
 requires pip install nibabel
 
